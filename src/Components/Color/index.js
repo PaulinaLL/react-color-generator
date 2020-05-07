@@ -8,6 +8,7 @@ function Color(props) {
         style={{
           backgroundColor: `${props.color}`,
           height: "100px",
+          width: "100px",
         }}
       ></div>
       <p>{props.color}</p>
