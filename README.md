@@ -1,4 +1,8 @@
+As a user you can create a random color by clicking at the "Create color" button. You will get an circle with a new color and its HEXadecimal description. The latest color will always be added at the beggining of the list. You can also remove the colors by clicking on the "Remove" button. When there is no color the default view will be displayed.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run this project on your maschine remember to get the necessary dependencies with `npm install` in the project directory and use the available scripts below:
 
 ## Available Scripts
 
