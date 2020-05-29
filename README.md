@@ -3,7 +3,7 @@ Live preview: https://react-color-generator-paulina.netlify.app/
 
 As a user you can create a random color by clicking at the "Create color" button. You will get an circle with a new color and its HEXadecimal description. The latest color will always be added at the beggining of the list. You can also remove the colors by clicking on the "Remove" button. 
 When there is no color the default view will be displayed:
-![view](color-generator.png)
+![view](color-generator.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
